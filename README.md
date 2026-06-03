@@ -576,13 +576,9 @@ Atacar o chatbot e acumular pontos.
 
 * OWASP Top 10 for LLM Applications
 * OWASP GenAI Security Project - owasp.org/www-project-top-10-for-large-language-model-applications
-<img width="2128" height="140" alt="image" src="https://github.com/user-attachments/assets/4c990be5-d8b7-4cf1-a7f5-c39ecc34023a" />
-
 * Google AI Studio - aistudio.google.com
-<img width="675" height="140" alt="image" src="https://github.com/user-attachments/assets/14aa24e2-99c1-472c-b443-d95b25bb597a" />
-
 * Google Colab - colab.research.google.com
-<img width="882" height="140" alt="image" src="https://github.com/user-attachments/assets/4455bac0-5eb7-4482-b7a6-1629ae7b092f" />
+
 
 
 ---
