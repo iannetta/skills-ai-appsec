@@ -468,13 +468,13 @@ import re
 def sanitize_output(text):
 
     text = re.sub(
-        r"sk_[A-Za-z0-9]+",
+        r"sk_[A-Za-z0-9]+_[A-Za-z0-9]+",
         "[REDACTED]",
         text
     )
-
+ 
     text = re.sub(
-        r"[A-Za-z0-9@!#$]{8,}[!@#$][A-Za-z0-9]{2,}",
+        r"[A-Za-z0-9@!#$]{4,}[!@#$][A-Za-z0-9]{4,}[!@#$]",
         "[REDACTED]",
         text
     )
